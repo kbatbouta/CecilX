@@ -18,7 +18,7 @@ public class CecilFieldsDefOf
 2. Patch (similar to LibHarmony)
 ```cs
 public static CecilPatcher patcher = new CecilPatcher();
-public static Harmony harmony = new Harmony("krkr.roofs");
+public static Harmony harmony = new Harmony("krkr.test");
 
 static Initialization()
 {
