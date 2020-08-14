@@ -1,4 +1,4 @@
-# CecilX (RimWorld)
+# Honey Pot (RimWorld)
 
 A Cecil (Mono) patcher for RimWorld.
 
