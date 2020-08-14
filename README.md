@@ -1,6 +1,6 @@
-# CecilX
+# CecilX (RimWorld)
 
-A Cecil (Mono) Patcher for rimworld.
+A Cecil (Mono) patcher for RimWorld.
 
 ## usage
 
