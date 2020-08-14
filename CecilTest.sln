@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CecilRunner", "CecilRunner\CecilRunner.csproj", "{C0ACA613-F7B3-4613-9C7A-8B7D69BCD018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CecilPatcher", "CecilPatcher\CecilPatcher.csproj", "{1CFCC161-28E0-4C16-8214-D39CDF1BCAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roofs", "..\..\Library\Application Support\Steam\steamapps\common\RimWorld\RimWorldMac.app\Mods\Roofs-Zlevels\Source\Roofs\Roofs\Roofs.csproj", "{304CDE4C-5715-4DE2-9D7F-761FE5C0EDF3}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "AlienRace", "..\..\Library\Application Support\Steam\steamapps\common\RimWorld\RimWorldMac.app\Mods\AlienRaces\Source\AlienRace\AlienRace\AlienRace.csproj", "{75E07627-5E45-4F3F-961A-474209C62083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0ACA613-F7B3-4613-9C7A-8B7D69BCD018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ACA613-F7B3-4613-9C7A-8B7D69BCD018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ACA613-F7B3-4613-9C7A-8B7D69BCD018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ACA613-F7B3-4613-9C7A-8B7D69BCD018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CFCC161-28E0-4C16-8214-D39CDF1BCAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFCC161-28E0-4C16-8214-D39CDF1BCAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFCC161-28E0-4C16-8214-D39CDF1BCAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFCC161-28E0-4C16-8214-D39CDF1BCAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304CDE4C-5715-4DE2-9D7F-761FE5C0EDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304CDE4C-5715-4DE2-9D7F-761FE5C0EDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304CDE4C-5715-4DE2-9D7F-761FE5C0EDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304CDE4C-5715-4DE2-9D7F-761FE5C0EDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E07627-5E45-4F3F-961A-474209C62083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E07627-5E45-4F3F-961A-474209C62083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E07627-5E45-4F3F-961A-474209C62083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E07627-5E45-4F3F-961A-474209C62083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
